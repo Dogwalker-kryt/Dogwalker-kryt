@@ -1,10 +1,12 @@
 ## Hi there 👋
+iam Dogwalker-kryt im a self thought programer in C, Rust and Pyhton.
+i work allot on my repo's in my free time. 
+i use Linux
 
-**about**
-- I’m currently working on many things, mainly for my repo's
+# Skills
 - I’m currently learning C
-- i can program Rust and C
-- i use Linux
+- i can program Rust, C and Python
+
 
 
   
