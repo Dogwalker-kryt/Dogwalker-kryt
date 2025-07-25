@@ -15,7 +15,6 @@ i try to make good usefull open source applications, i dont upload the finished 
 i work on these Projects at the moment
 - Rovar compiler
 - Nospecialcharacters compiler
-- Easy Bash
 - DriveMgr
 
 
