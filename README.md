@@ -13,9 +13,9 @@ i try to make good usefull open source applications, i dont upload the finished 
 
 ## Projects
 i work on these Projects at the moment
-- Rovar compiler
-- Nospecialcharacters compiler
-- DriveMgr
+- [Rovar compiler](https://github.com/Dogwalker-kryt/Rovar-Programming-language)
+- [Nospecialcharacters compiler](https://github.com/Dogwalker-kryt/Nospecialcharacters-esso-lang)
+- [Drive Manager for Linux](https://github.com/Dogwalker-kryt/Drive-Manager-for-Linux)
 
 
 
