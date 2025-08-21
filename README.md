@@ -8,7 +8,7 @@ i try to make good usefull open source applications, i usually dont upload the f
 
 ## Skills
 - I’m currently learning C++
-- i can program Rust, C, C++ and Python
+- i can program in Rust, C, C++, Python 
 - i know how to exit vim
 
 ## Projects
