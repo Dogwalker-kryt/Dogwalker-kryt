@@ -1,7 +1,7 @@
 # Hi there 
 iam Dogwalker-kryt im a self thought programer in C/C++, Rust and Pyhton and i use Linux.
 
-i work allot on my repo's in my free time.
+i work a lot on my repo's in my free time.
 
 i try to make good usefull open source applications, i usually dont upload the finished executable, so you can complie them for your OS
 
