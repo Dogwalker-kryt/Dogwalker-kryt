@@ -9,6 +9,7 @@ i try to make good usefull open source applications, i usually dont upload the f
 ## Skills
 - i can program in Rust, C, C++, Python 
 - i know how to exit vim
+- using Linux
 
 ## Projects
 i work on these Projects at the moment
