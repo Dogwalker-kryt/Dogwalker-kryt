@@ -20,5 +20,7 @@ i work on these Projects at the moment
 ### My best Project of all so far
 - [Drive-Manager-for-Linux](https://github.com/Dogwalker-kryt/Drive-Manager-for-Linux)
   
+### Languages used
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dogwalker-kryt&layout=compact)
 
   
