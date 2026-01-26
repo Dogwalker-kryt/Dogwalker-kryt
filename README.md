@@ -7,6 +7,7 @@ i try to make good usefull open source applications, i usually dont upload the f
 
 
 ## Skills
+- im currently learning C++ and x86 Assembly
 - i can program in Rust, C, C++, Python 
 - i know how to exit vim
 - using Linux
