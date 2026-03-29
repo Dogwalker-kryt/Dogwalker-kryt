@@ -35,23 +35,6 @@ I build practical utilities that solve real problems. Most of my projects involv
 
 ---
 
-### [Linux Kernel Module Manager (KMM)](https://github.com/Dogwalker-kryt/Linux-Kernel-Module-Manager--KMM-)
-**What it does:** Clean CLI for managing kernel modules—load, unload, list, and verify module status. Built with libkmod for a modern approach to kernel operations.
-
-**Tech Stack:** C, libkmod, Linux kernel API
-
-**Key Features:**
-- List all loaded modules with dependencies
-- Load/unload modules with parameters
-- Check module status instantly
-- Clean 3-layer architecture (CLI → API → libkmod)
-- Error handling with user-friendly messages
-- Memory safe and leak-free
-
-**Status:** Phase 1 complete, tested and working
-
----
-
 ## Currently Learning
 
 - **x86 Assembly** — Understanding how the CPU actually works
@@ -63,32 +46,16 @@ I build practical utilities that solve real problems. Most of my projects involv
 ## Skills
 
 **Languages I use:**
-- **C** — System-level work, kernel operations
-- **C++** — System-level work and Complex applications
-- **Rust** — Trying Memory safety without overhead 
-- **Python** — Scripting, automation and prototyping
-- **Kotlin** — Trying to make applications for Android
+- **C** 
+- **C++** 
+- **Rust** 
+- **Python** 
+- **Kotlin** 
 
-**Linux & Systems:**
-- Comfortable at the command line (and yes, I can exit vim)
-- Kernel module development and debugging
-- Shell scripting and build systems (Make, autotools)
+**Linux & Systems & Embedded Systems:**
+- Comfortable at the command line 
+- Shell scripting and build systems (Make)
 - Filesystem operations and encryption
-- Performance analysis and optimization
-
-**Philosophy:**
-- **Low-level first** — Understand the system before abstracting
-- **Minimal dependencies** — Less bloat, more control
-- **User-friendly** — Even system tools should be easy to use
-- **Open source** — Code that anyone can compile and audit
-
----
-
-## How I Work
-
-- Self-taught through documentation and hands-on experimentation
-- testing before release
-- Backup branches and careful version control
 
 ---
 
@@ -100,8 +67,6 @@ I build practical utilities that solve real problems. Most of my projects involv
 ## What's Next?
 
 Working on expanding my systems programming toolkit:
-- More kernel module projects
 - Embedded systems 
-- Performance profiling tools
 
 If you're interested in systems programming or Linux development, feel free to explore my repos and suggest improvements. I'm always open to feedback and collaboration.
