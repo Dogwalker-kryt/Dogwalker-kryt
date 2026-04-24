@@ -1,6 +1,6 @@
 # Hey, I'm Dogwalker-kryt 
 
-Self-taught programmer focused on **low-level systems work** in C/C++, Rust, and Python. I spend most of my free time building useful open-source tools for Linux. I upload source-only (most of the time) so you can compile it yourself. That way you know exactly what's running.
+Self-taught programmer focused on **low-level systems work** in C/C++ and Python. I spend most of my free time building useful open-source tools for Linux. I upload source-only (most of the time) so you can compile it yourself. That way you know exactly what's running.
 
 ---
 
@@ -48,9 +48,7 @@ I build practical utilities that solve real problems. Most of my projects involv
 **Languages I use:**
 - **C** 
 - **C++** 
-- **Rust** 
 - **Python** 
-- **Kotlin** 
 
 **Linux & Systems & Embedded Systems:**
 - Comfortable at the command line 
