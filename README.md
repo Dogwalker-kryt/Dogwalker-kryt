@@ -31,7 +31,7 @@ I build practical utilities that solve real problems. Most of my projects involv
 - Dry-run mode for safety
 - Centralized command execution abstraction
 
-**Status:** Feature-complete, ~3200+ lines of production C++
+**Status:** Feature-complete, ~5444+ lines of production C++17
 
 ---
 
@@ -48,7 +48,8 @@ I build practical utilities that solve real problems. Most of my projects involv
 **Languages I use:**
 - **C** 
 - **C++** 
-- **Python** 
+- **Python**
+- **Rust (not activly)**
 
 **Linux & Systems & Embedded Systems:**
 - Comfortable at the command line 
