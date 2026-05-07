@@ -1,6 +1,6 @@
 # Hey, I'm Dogwalker-kryt 
 
-Self-taught programmer focused on **low-level systems work** in C/C++ and Python. I spend most of my free time building useful open-source tools for Linux. I upload source-only (most of the time) so you can compile it yourself. That way you know exactly what's running.
+Self-taught programmer focused on **low-level programing** in C/C++, Python and a little Assembly. I spend most of my free time building useful open-source tools for Linux. I upload source-only (most of the time)
 
 ---
 
@@ -11,35 +11,33 @@ I build practical utilities that solve real problems. Most of my projects involv
 - **Systems programming** (direct hardware interaction, minimal abstractions)
 - **Command-line tools** (fast, efficient, no bloat)
 - **DIY approach** (prefer understanding the system over using abstractions)
+- **Reverse Engineering** (performing RE on my own tools to see what happens under the hood and find ways to optimize my tools)
 
 ---
 
 ## Current Projects
 
-### [Drive Manager for Linux](https://github.com/Dogwalker-kryt/Drive-Manager-for-Linux) *My best work*
-**What it does:** Complete drive management utility for Linux—format, encrypt, clone, analyze, benchmark, recover, and forensics operations on physical drives.
+### Sectr-ctl 
 
-**Tech Stack:** C++, OpenSSL (libssl/libcrypto), lsblk, parted, cryptsetup, dd, smartctl, e2fsck
+- Disk Management 
 
-**Key Features:**
-- Format and partition drives
-- Full-disk encryption/decryption
-- Disk cloning with verification
-- Drive fingerprinting & forensics
-- Disk space analysis & benchmarking
-- Metadata extraction and recovery
-- Dry-run mode for safety
-- Centralized command execution abstraction
 
-**Status:** Feature-complete, ~5444+ lines of production C++17
+### Flowy-ctl
+
+- local workflow runner and manager 
+
+
+### own Stack only framework
+
+- C++17 framework for Stack only memory usage
 
 ---
 
 ## Currently Learning
 
-- **x86 Assembly** — Understanding how the CPU actually works
-- **Advanced C/C++** — Memory models, optimization techniques
-- **Kernel internals** — Device drivers, syscalls, module loading mechanisms
+- **x86 Assembly**
+- **Advanced C/C++** 
+- **Programing Mikrocontrollers**
 
 ---
 
@@ -49,7 +47,8 @@ I build practical utilities that solve real problems. Most of my projects involv
 - **C** 
 - **C++** 
 - **Python**
-- **Rust (not activly)**
+- **Rust** _(not activly)_
+- **Assembly**
 
 **Linux & Systems & Embedded Systems:**
 - Comfortable at the command line 
@@ -66,6 +65,7 @@ I build practical utilities that solve real problems. Most of my projects involv
 ## What's Next?
 
 Working on expanding my systems programming toolkit:
-- Embedded systems 
+- getting better at Embedded systems 
+- getting better at x86 Assembly 
 
 If you're interested in systems programming or Linux development, feel free to explore my repos and suggest improvements. I'm always open to feedback and collaboration.
