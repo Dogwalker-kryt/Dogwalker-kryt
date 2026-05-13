@@ -1,6 +1,6 @@
 # Hey, I'm Dogwalker-kryt 
 
-Self-taught programmer focused on **low-level programing** in C/C++, Python and a little Assembly. I spend most of my free time building useful open-source tools for Linux. I upload source-only (most of the time)
+Self-taught programmer focused on **low-level programing** in C/C++, Python and a little Assembly. I spend most of my free time building useful open-source tools for Linux.
 
 ---
 
