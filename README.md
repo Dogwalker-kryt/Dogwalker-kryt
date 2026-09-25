@@ -7,9 +7,9 @@ Self-taught programmer focused on **low-level programing** in C/C++, Python and 
 ## What I Do
 
 I build practical utilities that solve real problems. Most of my projects involve:
-- **Linux kernel operations** (modules, filesystems, device management)
-- **Systems programming** (direct hardware interaction, minimal abstractions)
-- **Command-line tools** (fast, efficient, no bloat)
+- **Linux specific applications** (modules, filesystems, device management)
+- **Systems- and low level programming** (direct hardware interaction, minimal abstractions)
+- **CLI/TUI tools** (fast, efficient, no bloat)
 - **DIY approach** (prefer understanding the system over using abstractions)
 - **Reverse Engineering** (performing RE on my own tools to see what happens under the hood and find ways to optimize my tools)
 
@@ -22,9 +22,9 @@ I build practical utilities that solve real problems. Most of my projects involv
 - Disk Management 
 
 
-### Flowy-ctl
+### DwRast 
 
-- local workflow runner and manager 
+- a Software Rasterizer built in C/C++ from scratch with some SSE2
 
 
 ### own Stack only framework
