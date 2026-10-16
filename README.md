@@ -59,13 +59,3 @@ I build practical utilities that solve real problems. Most of my projects involv
 
 ## Language Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dogwalker-kryt&layout=compact)
-
----
-
-## What's Next?
-
-Working on expanding my systems programming toolkit:
-- getting better at Embedded systems 
-- getting better at x86 Assembly 
-
-If you're interested in systems programming or Linux development, feel free to explore my repos and suggest improvements. I'm always open to feedback and collaboration.
