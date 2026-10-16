@@ -1,7 +1,11 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:0f172a,50:312e81,100:0f172a&text=Dogwalker-kryt&fontColor=ffffff&fontSize=60&fontAlignY=45&desc=Self thought Developer%20%7C%20Linux user%20%7C%20&descSize=16&descAlignY=65&animation=fadeIn" width="100%" />
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1020,100:6366f1&height=200&section=header&text=Dogwalker-kryt&fontSize=48&fontColor=ffffff&fontAlignY=40&animation=fadeIn"
+    width="100%"
+    alt="Profile header"
+  />
 
 <p>
   <a href="https://github.com/Dogwalker-kryt">
