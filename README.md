@@ -31,17 +31,7 @@
 
 ## About Me
 
-```yaml
-name: Dogwalker-kryt
-role: Electronics Technician for Automation Technology
-currently_learning: Advanced C/C++ and Assembly
-interests:
-  - Software Engineering
-  - Open Source
-  - System Design
-  - Building Useful Products
-  - Low level stuff
-```
+I am Dogwalker-kryt, an Electronics Technician specializing in Automation Technology. In addition to my professional role, I am a self-taught Developer with a strong focus on low-level systems development. Software development is not only a passion of mine but also a hobby that I continuously explore and refine.
 
 ---
 
