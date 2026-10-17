@@ -41,7 +41,7 @@ I am Dogwalker-kryt, an Electronics Technician specializing in Automation Techno
 
 ### Languages
 
-<img src="https://skillicons.dev/icons?i=python,rust,c,cpp&theme=dark" />
+<img src="https://skillicons.dev/icons?i=bash,python,rust,c,cpp&theme=dark" />
 
 <!-- ### Frameworks & Tools
 
@@ -49,7 +49,7 @@ I am Dogwalker-kryt, an Electronics Technician specializing in Automation Techno
 
 ### Databases & Infrastructure
 
-<img src="https://skillicons.dev/icons?i=sqlite,docker,git,linux&theme=dark" />
+<img src="https://skillicons.dev/icons?i=sqlite,docker,arduino,git,linux&theme=dark" />
 
 </div>
 
