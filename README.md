@@ -85,13 +85,15 @@ A Cpu Rasterizer build from scratch in C/C++ with AVX2
 <tr>
 <td width="50%">
 
-### 🔹 KMM
+### 🔹 Sectr_C
 
-A Kernel module manager for Linux
+Sectr-ctl rewriten in C and completly redesigned
 
 **Stack:** C
 
-[View Repository →](https://github.com/Dogwalker-kryt/Linux-Kernel-Module-Manager--KMM-)
+Not public yet
+[View Repository →]
+()
 
 </td>
 <td width="50%">
