@@ -91,7 +91,6 @@ Sectr-ctl rewriten in C and completly redesigned
 
 **Stack:** C
 
-Not public yet
 [View Repository →](https://github.com/Dogwalker-kryt/SectrC)
 
 </td>
