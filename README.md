@@ -93,7 +93,7 @@ Sectr-ctl rewriten in C and completly redesigned
 
 Not public yet
 [View Repository →]
-()
+(https://github.com/Dogwalker-kryt/SectrC)
 
 </td>
 <td width="50%">
