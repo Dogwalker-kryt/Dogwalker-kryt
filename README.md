@@ -31,7 +31,7 @@
 
 ## About Me
 
-I am Dogwalker-kryt, an Electronics Technician specializing in Automation Technology. In addition to my professional role, I am a self-taught Developer with a strong focus on low-level systems development. Software development is not only a passion of mine but also a hobby that I continuously explore and refine.
+I am Dogwalker-kryt, an Industrial Automation Technician. In addition to my professional role, I am a self-taught Developer with a strong focus on low-level systems development. Software development is not only a passion of mine but also a hobby that I continuously explore and refine.
 
 ---
 
